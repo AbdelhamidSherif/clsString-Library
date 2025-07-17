@@ -236,7 +236,7 @@ A comprehensive C++ utility library for randomization, encryption, and array ope
 ### clsDate
 A powerful C++ date manipulation library with arithmetic operations and formatting.
 
-🔗 [clsDate GitHub Repository](https://github.com/AbdelhamidSherif/clsDate)
+🔗 [clsDate GitHub Repository](https://github.com/AbdelhamidSherif/clsDate-Library)
 
 ---
 
