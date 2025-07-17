@@ -192,8 +192,7 @@ for (auto& fruit : fruits) {
 ├── clsString.h       → Main header file with the string class
 ├── main.cpp          → Example usage and demonstration
 ├── README.md         → Project documentation
-└── tests/            → Unit tests directory
-    └── test_clsString.cpp → Comprehensive test cases
+
 ```
 
 ---
@@ -217,7 +216,7 @@ for (auto& fruit : fruits) {
 ### Method 2: Clone Repository
 
 ```bash
-git clone https://github.com/doctordev-devcode/clsString-Library.git
+git clone https://github.com/AbdelhamidSherif/clsString-Library.git
 cd clsString-Library
 ```
 
@@ -227,35 +226,17 @@ Download `clsString.h` and include it in your project.
 
 ---
 
-## 🧪 Testing
-
-The library includes comprehensive test cases covering:
-
-- All string manipulation methods
-- Edge cases and boundary conditions
-- Performance testing
-- Memory management verification
-
-Run tests:
-
-```bash
-g++ -std=c++11 tests/test_clsString.cpp -o test_runner
-./test_runner
-```
-
----
-
 ## 📚 Related Projects
 
 ### clsUtil
 A comprehensive C++ utility library for randomization, encryption, and array operations.
 
-🔗 [clsUtil GitHub Repository](https://github.com/doctordev-devcode/Project_1_Utility_Library)
+🔗 [clsUtil GitHub Repository](https://github.com/AbdelhamidSherif/Project_1_Utility_Library)
 
 ### clsDate
 A powerful C++ date manipulation library with arithmetic operations and formatting.
 
-🔗 [clsDate GitHub Repository](https://github.com/doctordev-devcode/clsDate)
+🔗 [clsDate GitHub Repository](https://github.com/AbdelhamidSherif/clsDate)
 
 ---
 
@@ -269,19 +250,13 @@ A powerful C++ date manipulation library with arithmetic operations and formatti
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Doctor Dev**  
 📍 Egypt  
 🧠 Software Engineer | C++ String Processing Specialist  
-📧 [YourEmail@example.com](mailto:YourEmail@example.com)  
-🔗 [GitHub Profile](https://github.com/doctordev-devcode)
+📧 [My Email](mailto:9abdelhamid080@gmail.com)  
+🔗 [GitHub Profile](https://github.com/AbdelhamidSherif)
 
 ---
 
@@ -293,7 +268,7 @@ If this library helped you, please consider giving it a star ⭐ on GitHub!
 
 ## 🔗 GitHub Repository
 
-**Repository**: [clsString-Library](https://github.com/doctordev-devcode/clsString-Library)
+**Repository**: [clsString-Library](https://github.com/AbdelhamidSherif/clsString-Library)
 
 ---
 
