@@ -231,7 +231,7 @@ Download `clsString.h` and include it in your project.
 ### clsUtil
 A comprehensive C++ utility library for randomization, encryption, and array operations.
 
-🔗 [clsUtil GitHub Repository](https://github.com/AbdelhamidSherif/Project_1_Utility_Library)
+🔗 [clsUtil GitHub Repository](https://github.com/AbdelhamidSherif/Project_Utility_Library)
 
 ### clsDate
 A powerful C++ date manipulation library with arithmetic operations and formatting.
